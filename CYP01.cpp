@@ -12,7 +12,8 @@ int main()
 	     cordy2 = cordy1 + altoPAN*pAL;
 	//Datos Salida
 	      printf("%i %i %5.2f %5.2f %5.2f %5.2f %d %d %d %d", anchoPAN, altoPAN, x, y, pAN, pAL,cordx1,cordy1,cordx2,cordy2);
-	
+	//ESTO ES UN COMENTARIO QUE DEBE DE APARECER EN LA TERMINAL DE GIT BASH
+
 		  return(0);
 }
 
